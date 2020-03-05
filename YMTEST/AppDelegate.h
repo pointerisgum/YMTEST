@@ -6,7 +6,7 @@
 //  Copyright © 2020 김영민. All rights reserved.
 //
 
-//SubMaster2
+//SubMaster3
 #import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
